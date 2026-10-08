@@ -1,0 +1,9 @@
+# Python 3.11-3.13; Windows x64; NVIDIA GPU
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.8.0+cu128
+torchvision==0.23.0+cu128
+numpy==2.2.6
+opencv-python==4.11.0.86
+ultralytics==8.3.200
+av==15.1.0
